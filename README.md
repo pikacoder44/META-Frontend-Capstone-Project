@@ -1,7 +1,7 @@
 # Capstone project for the Meta Front-End Developer Professional Certificate
 
 
-# META Frontend Developer Capstone Project
+# META Frontend Developer Capstone Project!
 
 This project is the final capstone for the **Meta Front-End Developer Specialization**.  
 It demonstrates the application of modern frontend development skills including **React, JavaScript, responsive design, and accessibility best practices**.
